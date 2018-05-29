@@ -1,0 +1,61 @@
+body{font-family:Nunito Sans,sans-serif;font-size:16px}h1{font-weight:700;font-size:1.6em;margin-bottom:18px}h2{font-weight:600;font-size:1.3em;margin-bottom:10px}h3{font-weight:700;font-size:1.1em}p{line-height:1.4em;padding:10px 0}a,a:link,a:visited{color:#fff;text-decoration:none}.logo{width:100%;max-width:600px;display:block}#tls-intro{background-image:url(../../images/tls-zoombg_colour.svg);background-size:cover;background-repeat:no-repeat;background-position:0 0;width:100%;height:75vh}.content{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;height:100%;width:100%;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.blue .content{padding:16px 20px;max-width:1200px;margin:0 auto}@media only screen and (max-width:768px){.blue .content{display:block}}footer .content{padding:30px 20px;display:block;margin:0 auto;max-width:300px}footer .content p{line-height:1.6em}.content .content-box{-ms-flex-preferred-size:50%;flex-basis:50%;display:-webkit-box;display:-ms-flexbox;display:flex;padding:40px 15px;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}@media only screen and (max-width:768px){.content .content-box{padding:30px 0}}.content .content-box .icon img{padding-right:14px;max-width:60px}@media only screen and (max-width:768px){.content .content-box .icon img{max-width:50px}}.content-intro{padding:60px 15px 10px;text-align:center;max-width:900px}.content-intro p{font-size:1.25em}.blue{background:#007bb1;color:#fff}.grey-light{background:#636466;background-image:url(../../images/pattern-bg.png)}.grey-dark{background:#4e4f4f;font-size:.8em}footer{color:#fff;text-align:center}
+/*# sourceMappingURL=main.css.map */
+
+.press-release{
+	max-width: 1200px;
+	margin: 0 auto;
+
+}
+.news-title{
+	padding: 16px 20px;
+
+}
+
+.news-title .content-intro h1{
+	color: #007bb1;
+}
+
+.news{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 40px
+}
+
+.news .news-content{
+	padding: 0 10px;
+}
+
+
+.news .news-content ul{
+	padding-left: 2rem;
+ 	list-style-type: none;
+}
+
+.news .news-content ul li{
+	padding-left: 2rem;
+	background-image: url(../../images/tls-icon.png);
+	background-position: 0 0;
+	background-size: 1.6rem 1.6rem;
+	background-repeat: no-repeat;
+	margin-bottom: 30px;
+	font-size: 1.3em;
+	color: #333;
+}
+
+.news .news-content li a{
+	color: #333;
+}
+
+.news .news-content li a:hover{
+	color: #007bb1;
+	text-decoration: underline;
+
+}
+

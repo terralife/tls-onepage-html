@@ -1,0 +1,39 @@
+<svg width="1440" height="971" viewBox="0 0 1440 971" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(995 987)">
+<g id="Group">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-997 -1011)" fill="#FFFFFF" fill-opacity="0.03"/>
+</g>
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-997 -1011)" fill="#007BB1"/>
+</g>
+</mask>
+<g id="Group" mask="url(#mask0_alpha)">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-1910.11 -867.772)" fill="#02ADE1"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-32.0259 -1592.49)" fill="#02ADE1"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(-1754.62 -2326.74)" fill="#1A92CA"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 1449 0L 1449 995L 0 995L 0 0Z"/>
+<path id="path1_fill" d="M 1811.23 951.561L 232.385 22.0049C 129.862 -39.5098 6.83495 35.6749 6.83495 151.869L -5.21457e-05 978.901C -5.21457e-05 1033.58 27.3395 1081.43 75.1834 1108.77L 936.374 1614.55C 984.218 1641.89 1038.9 1641.89 1086.74 1614.55L 1804.4 1204.45C 1913.76 1156.61 1913.76 1006.24 1811.23 951.561Z"/>
+<path id="path2_fill" d="M 1614.52 794.565L 1204.43 76.8935C 1149.75 -25.6311 999.387 -25.6311 944.709 76.8935L 22.0044 1655.77C -39.5092 1758.3 35.6742 1881.33 151.867 1881.33L 978.883 1888.16C 1033.56 1888.16 1081.41 1860.82 1108.75 1812.98L 1614.52 951.77C 1641.86 903.925 1641.86 842.41 1614.52 794.565Z"/>
+<path id="path3_fill" d="M 1669.41 18.2837L 76.8921 920.5C -25.6306 975.18 -25.6306 1125.55 76.8921 1180.23L 787.716 1597.16C 835.56 1624.5 890.239 1624.5 938.083 1597.16L 1806.11 1105.04C 1853.95 1077.7 1881.29 1029.86 1881.29 975.18L 1888.13 148.148C 1894.96 38.7887 1765.1 -36.3961 1669.41 18.2837Z"/>
+</defs>
+</svg>
