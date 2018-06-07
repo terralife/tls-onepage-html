@@ -59,3 +59,12 @@ body{font-family:Nunito Sans,sans-serif;font-size:16px}h1{font-weight:700;font-s
 
 }
 
+
+footer .content{
+	max-width: 1180px;
+}
+
+
+footer .content a{
+	text-decoration: underline;
+}
